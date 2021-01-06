@@ -1,3 +1,47 @@
+# Stella Github
+![Image of sky](IMG_1525.JPG)
+
+# Markdown 
+
+# Lab 1 Page
+
+
+## Styling text
+**Hello, everyone! Welcome to my ~~beautiful~~ amazing github world! I am so _excited_ for CSE110 **
+
+
+
+## Quoting text
+Don't know who says it, but I really like this quote
+>Experience is the name everyone gives to their mistakes.
+
+## quoting code
+During the lab 1, I review a lot of git command, like `git add`, `git push`, and `git commit`.
+
+## links
+if you would like to see my lab 1, [here](https://jmastella.github.io/cse110-lab1) is the link.
+
+## [Section links](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+## Relative links
+Read me file is [here](README.md)
+
+
+## Lists 
+In last class, my teammates are
+-Stella
+-Luna
+-Vivian
+
+## Task lists
+Today's Todo
+- [x] Finish CSE110 Lab1
+- [ ] Finish CSE110 lecture
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jmaStella/jmaStella.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
