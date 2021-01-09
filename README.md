@@ -7,7 +7,7 @@
 ### all Header 2 format text are used to check each markdown construct, will be removed afterwards.
 
 ## Styling text
-**Hello, everyone! Welcome to my ~~beautiful~~ amazing github world! I am so _excited_ for CSE110 **
+**Hello, everyone! Welcome to my ~~beautiful~~ amazing github world! I am so _excited_ for CSE110**
 
 
 
@@ -37,7 +37,7 @@ In my CSE140L class, my teammates are
 I'm so excied about my new teammates in CSE110.
 
 ## Ordered List
-###What am I going to do this weekend
+### What am I going to do this weekend
 1. Finish all lectures.
 2. Do CSE105 homework, due Sunday.
 3. Do CSE101 homework, due next Wednesday.
