@@ -7,6 +7,7 @@
 ### all Header 2 format text are used to check each markdown construct, will be removed afterwards.
 
 ## Styling text
+
 **Hello, everyone! Welcome to my ~~beautiful~~ amazing github world! I am so _excited_ for CSE110**
 
 
@@ -19,7 +20,7 @@ Don't know who says it, but I really like this quote
 During the lab 1, I review a lot of git command, like `git add`, `git push`, and `git commit`.
 
 ## links
-if you would like to see my lab 1, [here](https://jmastella.github.io/cse110-lab1) is the link.
+if you would like to see my lab 1, [here](https://github.com/jmaStella/cse110-lab1) is the link.
 
 
 ## [Markdown tutorial](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
