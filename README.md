@@ -8,7 +8,7 @@
 
 ## Styling text
 
-**Hello, everyone! Welcome to my ~~beautiful~~ amazing github world! I am so _excited_ for CSE110**
+**Hello, everyone! Welcome to my ~~beautiful~~ amazing github world!**
 
 
 
